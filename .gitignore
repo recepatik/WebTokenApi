@@ -55,6 +55,8 @@ BenchmarkDotNet.Artifacts/
 project.lock.json
 project.fragment.lock.json
 artifacts/
+C:\Users\recep\source\repos\WebTokenApi\WebTokenApi\appsettings.Development.json
+C:\Users\recep\source\repos\WebTokenApi\WebTokenApi\Properties\launchSettings.json
 
 # StyleCop
 StyleCopReport.xml
